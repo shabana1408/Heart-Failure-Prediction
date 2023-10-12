@@ -11,7 +11,7 @@ The purpose of this project is to improve early detection of heart failure in pa
 
 ### Stakeholders
 
-Healthcare providers, healthcare funders and patients.
+Healthcare providers, healthcare funders, policyholders and patients.
 
 ### Data
 
@@ -67,15 +67,14 @@ The model may be deployed as an early warning system within the healthcare provi
 
 Stakeholders can incorporate the model's risk assessment tool into routine patient visits to help identify high-risk patients early. This will allow for timely interventions and personalised care plans.
 
-Stakeholder can educate patients on the importance of adopting and maintain a heart-healthy lifestyle by raising awareness about heart failure risk factors and prevention strategies. 
+Stakeholders can educate patients on the importance of adopting and maintaining a heart-healthy lifestyle by raising awareness about heart failure risk factors and prevention strategies. 
 
 ### Next steps
 
-A next step could be exploring ways to collect more patient data to produce a more generalised model.
+Explore ways to collect more patient data to produce a more generalised model.
 
 ### Additional information
 Contact:
 
 Shabana Patel
-
 shabana.patel@momentum.co.za
